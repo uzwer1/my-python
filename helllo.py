@@ -1,2 +1,2 @@
-print("Hello, Mad World!")
+print("Hello, very mad World!")
 input()
